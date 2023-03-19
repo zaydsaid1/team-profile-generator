@@ -1,0 +1,27 @@
+{
+    "name": "oop-team-profile",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zaydsaid1/team-profile-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zaydsaid1/team-profile-generator"
+    },
+    "homepage": "https://github.com/zaydsaid1/team-profile-generator",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.4.1"
+    }
+}
